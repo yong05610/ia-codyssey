@@ -1,18 +1,3 @@
 # ia-codyssey
 Github와 Codyssey를 연동하기 위해 만들어진 repository
 
-# GenAI 기초 1: LLM 기반 업무 자동화
-
-## 1. 모델 비교·선정 보고서
-
-| 모델 | 점수 | 평가 |
-|---|---|---|
-| ChatGPT | 5 | 형식 준수 우수 |
-| ChatGPT | 5 | 형식 준수 우수 |
-| ChatGPT | 5 | 형식 준수 우수 |
-| ChatGPT | 5 | 형식 준수 우수 |
-
-- 1번
-- 2번
-- 3번
-- 4번
